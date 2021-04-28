@@ -1,0 +1,3 @@
+given: comedy, predict: action, probabilities: {'comedy': -13.736965594166206, 'action': -12.509775004326936}.
+given: action, predict: action, probabilities: {'comedy': -13.736965594166206, 'action': -12.509775004326936}.
+Overall testing accuracy is 50.0%.
