@@ -1,3 +1,6 @@
+Run Time of the program is 11.28s for first training 25,000 IMDB movie reviews, then testing another 25,000 IMDB movie reviews.
+Overall testing accuracy is 81.45599999999999% for 25,000 IMDB movie reviews.
+
 Before running the program:
 Navigate to the working directly which contains all the files needed, main.py, train, test,imdb.vocab, etc. 
 The working directory should be generated automatically for the pre-processing, tested on mac os.

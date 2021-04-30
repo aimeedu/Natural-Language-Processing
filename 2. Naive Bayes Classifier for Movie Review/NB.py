@@ -106,6 +106,7 @@ def test_naive_bayes(labels, vocab, log_map, vector_map):
                 output.append('\n')
     accuracy = correct / total_test_doc * 100
     output.append(f"Overall testing accuracy is {accuracy}%.")
+    print(f"*Overall testing accuracy is {accuracy}%.")
     with open ("output.txt", 'w') as f:
         for i in output:
             f.write(i)
